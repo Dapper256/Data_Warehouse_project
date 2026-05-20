@@ -1,6 +1,6 @@
 #  Data Catalog: Gold Layer (Analytics & Reporting)
 
-## 📌 Overview
+##  Overview
 The **Gold Layer** represents the business-level data tier, optimized specifically for analytical modeling, business intelligence, and reporting. Data in this layer is structured using a dimensional modeling approach (**Star Schema**), consisting of highly descriptive **Dimension Tables** and a transactional **Fact Table** to power high-performance dashboarding and executive KPIs.
 
 ---
