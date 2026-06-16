@@ -26,10 +26,9 @@ This project involves:
 
 ## Important Links & Tools:
 
-- **[Datasets](datasets/):** Accessing to the project dataset (csv files).
+- **[Datasets]:** Accessing to the project dataset (csv files).
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
-- **[Git Repository](https://github.com/)
 
 ---
 
@@ -59,7 +58,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-For more details, refer to [Documents.md](Documents.md).
+For more details, refer to [Documents.md].
 
 ## Repository Structure
 ```
@@ -91,7 +90,7 @@ data-warehouse-project/
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License]. You are free to use, modify, and share this project with proper attribution.
 
 ## About Me
 
